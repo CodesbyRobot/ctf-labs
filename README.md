@@ -1,6 +1,6 @@
 # CTF Labs
 
-Beginner-friendly Capture the Flag projects designed for ethical, contained practice. Every challenge runs from local files or a service bound to `127.0.0.1`. Nothing in this repository requires scanning, probing, or interacting with systems you do not own.
+Beginner-friendly Capture the Flag projects designed for ethical, contained practice. Every challenge runs from local files or a service bound to `127.0.0.1`.
 
 ## Ground rules
 
@@ -38,7 +38,7 @@ Then open `http://127.0.0.1:8000` in a browser. Stop the server with `Ctrl+C`.
 
 ## Solutions
 
-Spoilers are stored in [`solutions/`](solutions/). Each walkthrough explains the reasoning, not just the final flag.
+Spoilers are stored in [`solutions/`](solutions/).
 
 ## For educators
 
