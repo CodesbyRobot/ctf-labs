@@ -1,0 +1,30 @@
+[
+  {
+    "id": "encoding-trail",
+    "title": "Encoding Trail",
+    "category": "encoding",
+    "difficulty": "easy",
+    "network_required": false
+  },
+  {
+    "id": "log-hunt",
+    "title": "Log Hunt",
+    "category": "forensics",
+    "difficulty": "easy",
+    "network_required": false
+  },
+  {
+    "id": "cookie-trust",
+    "title": "Cookie Trust",
+    "category": "web",
+    "difficulty": "easy",
+    "network_required": "localhost-only"
+  },
+  {
+    "id": "png-breadcrumb",
+    "title": "PNG Breadcrumb",
+    "category": "forensics",
+    "difficulty": "easy",
+    "network_required": false
+  }
+]
