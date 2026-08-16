@@ -1,4 +1,4 @@
-# Honest CTF Labs
+# CTF Labs
 
 Beginner-friendly Capture the Flag projects designed for ethical, contained practice. Every challenge runs from local files or a service bound to `127.0.0.1`. Nothing in this repository requires scanning, probing, or interacting with systems you do not own.
 
@@ -21,8 +21,8 @@ Beginner-friendly Capture the Flag projects designed for ethical, contained prac
 ## Quick start
 
 ```bash
-git clone https://github.com/CodesbyRobot/honest-ctf-labs.git
-cd honest-ctf-labs
+git clone https://github.com/CodesbyRobot/ctf-labs.git
+cd ctf-labs
 make test
 ```
 

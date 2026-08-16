@@ -17,7 +17,7 @@ FLAG = os.environ.get("CTF_FLAG", f"flag{{cookie_trust_{secrets.token_hex(6)}}}"
 
 
 class ChallengeHandler(BaseHTTPRequestHandler):
-    server_version = "HonestCTF/1.0"
+    server_version = "CTFLabs/1.0"
 
     def _role(self) -> str:
         cookie = SimpleCookie()
